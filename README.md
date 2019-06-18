@@ -1,8 +1,8 @@
 # On-the-plague-trail-HackerEarth-Machine-Learning-challenge
 This repository contains the solution for the [On The Plague Trail](https://www.hackerearth.com/challenges/competitive/on-the-plague-trail-hackerearth-machine-learning-challenge/) hackathon arranged by HackerEarth between May 18, 2019, 06:30 AM IST to Jun 16, 2019, 11:30 AM IST.  
-Public Leaderboard | Private Leaderboard
------------------- | -------------------
-99.60839 | 89.64987
+Public Leaderboard  | Private Leaderboard
+------------- | -------------
+99.60839  | 89.64987
 
 ## PROBLEM STATEMENT ##
 **Predict the total number of people infected by the 7 different pathogens.**
